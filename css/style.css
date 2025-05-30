@@ -1,0 +1,58 @@
+.titulo-principal {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.texto-de-destaque {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.sombra-suave {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+}
+
+/* tamanho dos icones alegre,triste,carente*/
+.icone-humor-1,.icone-humor-2,.icone-humor-3{
+  width: 200px;
+  height: auto;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.icone-humor-1:hover, .icone-humor-2:hover, .icone-humor-3:hover {
+  transform: scale(1.03);
+}
+
+.icone-humor-1{
+  box-shadow: 4px 4px 10px rgba(19, 248, 2, 0.5);
+ 
+}
+
+.icone-humor-2{
+  box-shadow: 4px 4px 10px rgba(0, 78, 247, 0.877);
+ 
+}
+
+.icone-humor-3{
+  box-shadow: 4px 4px 10px rgba(255, 0, 255, 0.626);
+ 
+}
+
+.pet-colar-img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 20px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+}
+
+.pet-colar-img:hover {
+  transform: scale(1.03);
+}
+.rounded-circle{
+   width: 380px;
+   height: 380px;
+}
