@@ -15,7 +15,7 @@ Com funcionalidade intuitiva, o app oferece insights, alertas e dicas personaliz
 ## Prints da Aplicação
 
 ### 🛎️ Notificações  
-![Notificações](assets/notificacoes.png)
+![Notificações](assets/Notificacoes.png)
 
 ### 🎯 Interface de Dicas Personalizadas  
 ![Dicas Personalizadas](assets/dicas.png)
