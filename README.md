@@ -26,8 +26,8 @@ Com funcionalidade intuitiva, o app oferece insights, alertas e dicas personaliz
 ### 📈 Histórico de Humor  
 ![Histórico](assets/historico_de_emocoes.png)
 
-### 🧠 Cards de IA  
-![Cards](assets/cards.PNG)
+### 🧠 Card dos planos:
+![Cards](assets/img_colar_2.png)
 
 ## Tecnologias Utilizadas
 - HTML5 + CSS3  
